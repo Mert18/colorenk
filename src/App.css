@@ -1,2 +1,16 @@
 .wrapper {
+  height: 100vh;  
+  padding: 1.5rem;
+}
+
+.color-group{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: .5rem;
+}
+
+.single-color{
+  width: 2rem;
+  height: 2rem;
 }
